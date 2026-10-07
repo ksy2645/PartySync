@@ -280,7 +280,7 @@ Doritosda
 ksy2645@naver.com
 
 문의 페이지:  
-해당 GitHub의 Issue
+[해당 GitHub의 Issue](https://github.com/ksy2645/PartySync/issues)
 
 최종 수정일:  
 2026-10-08
